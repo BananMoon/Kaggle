@@ -1,6 +1,5 @@
 # Machine Learning study
 
-#### 다음과 같은 글을 올리고 있습니다.
-- Kaggle에 있는 dataset 분석한 것
-- ML 관련 책을 공부하며 정리한 것
-
+#### Machine Learning 분야 공부 당시 작성한 글입니다.(2021 상)
+- Kaggle에 있는 dataset 분석
+- ML 관련 책을 공부하며 정리
